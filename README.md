@@ -1,5 +1,5 @@
 
-# Project Title
+# NikeStoreApp
 
 Sample project to show how to implement Clean Architecture with MVVM in Android by using Kotlin
 
