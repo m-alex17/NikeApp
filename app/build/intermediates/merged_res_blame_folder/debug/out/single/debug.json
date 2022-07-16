@@ -1,0 +1,322 @@
+[
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\font_primary_bold.ttf.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\font\\primary_bold.ttf"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_favorite_fill.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\drawable\\ic_favorite_fill.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_comment.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\drawable\\background_comment.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\color_bottom_navigation_item_color.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\color\\bottom_navigation_item_color.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_favorite_products.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\layout\\activity_favorite_products.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_default_empty_state.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\layout\\view_default_empty_state.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_favorites.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\drawable\\ic_favorites.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_decrease_cart_item_count.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\drawable\\ic_decrease_cart_item_count.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sign_in.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\drawable\\ic_sign_in.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_order_history.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\layout\\activity_order_history.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_increase_cart_item_count.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\drawable\\ic_increase_cart_item_count.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_product_list.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\layout\\activity_product_list.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_divider.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\drawable\\shape_divider.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_nike_logo.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\drawable\\ic_nike_logo.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_eye_off.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\drawable\\ic_eye_off.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\navigation_home.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\navigation\\home.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_auth_et.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\drawable\\background_auth_et.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\font_primary_extra_bold.ttf.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\font\\primary_extra_bold.ttf"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_comment.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\layout\\item_comment.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_eye.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\drawable\\ic_eye.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sign_out.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\drawable\\ic_sign_out.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_no_data.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\drawable\\ic_no_data.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_grid.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\drawable\\ic_grid.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_order_history.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\layout\\item_order_history.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_undraw_empty_cart.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\drawable\\ic_undraw_empty_cart.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_comment_list.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\layout\\activity_comment_list.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_product_large.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\layout\\item_product_large.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_view_type_large.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\drawable\\ic_view_type_large.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_check_out.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\layout\\activity_check_out.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_user.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\drawable\\ic_user.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_favorites_20dp.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\drawable\\ic_favorites_20dp.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_cart.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\layout\\item_cart.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\font_primary_regular.ttf.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\font\\primary_regular.ttf"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_navigation.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\menu\\main_navigation.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_login.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_product_detail.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\layout\\activity_product_detail.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_empty_cart.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\drawable\\ic_empty_cart.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_sign_up.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\layout\\fragment_sign_up.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_auth.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\layout\\activity_auth.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_back.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_cart.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\layout\\fragment_cart.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\navigation_profile.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\navigation\\profile.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_loading.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\layout\\view_loading.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_product.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\layout\\item_product.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_favorite.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\drawable\\background_favorite.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_cart.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\drawable\\ic_cart.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_outline_info_24.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\drawable\\ic_outline_info_24.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_toolbar.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\layout\\view_toolbar.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_product_small.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\layout\\item_product_small.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_et_search.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\drawable\\background_et_search.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sort.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\drawable\\ic_sort.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_order_history_item.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\drawable\\background_order_history_item.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_home.png.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\drawable-xxxhdpi\\home.png"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_round_insert_comment_24.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\drawable\\ic_round_insert_comment_24.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_shipping.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\layout\\activity_shipping.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_purchase_details.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\layout\\item_purchase_details.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_order_history.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\drawable\\ic_order_history.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\color_bottom_navigation_ripple_color.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\color\\bottom_navigation_ripple_color.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_favorite_product.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\layout\\item_favorite_product.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\navigation_cart.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\navigation\\cart.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_cart_empty_state.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\layout\\view_cart_empty_state.xml"
+    },
+    {
+        "merged": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_banner.xml.flat",
+        "source": "I:\\Download Folder Backup\\Compressed\\user-interface-samples-master\\NikeStore\\app\\src\\main\\res\\layout\\fragment_banner.xml"
+    }
+]

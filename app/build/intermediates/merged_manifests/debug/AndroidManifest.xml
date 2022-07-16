@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sevenlearn.nikestore"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="30" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name="com.sevenlearn.nikestore.App"
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/Theme.NikeStore"
+        android:usesCleartextTraffic="true" >
+        <activity android:name="com.sevenlearn.nikestore.feature.order.OrderHistoryActivity" />
+        <activity android:name="com.sevenlearn.nikestore.feature.favorites.FavoriteProductsActivity" />
+        <activity android:name="com.sevenlearn.nikestore.feature.checkout.CheckOutActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="expertdevelopers.ir"
+                    android:pathPattern="/appCheckout"
+                    android:scheme="nike" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.sevenlearn.nikestore.feature.shipping.ShippingActivity" />
+        <activity
+            android:name="com.sevenlearn.nikestore.feature.auth.AuthActivity"
+            android:theme="@style/Theme.Nike.AuthTheme" />
+        <activity android:name="com.sevenlearn.nikestore.feature.list.ProductListActivity" />
+        <activity android:name="com.sevenlearn.nikestore.feature.product.comment.CommentListActivity" />
+        <activity android:name="com.sevenlearn.nikestore.feature.product.ProductDetailActivity" />
+        <activity
+            android:name="com.sevenlearn.nikestore.feature.main.MainActivity"
+            android:windowSoftInputMode="stateHidden" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <service
+            android:name="androidx.room.MultiInstanceInvalidationService"
+            android:directBootAware="true"
+            android:exported="false" />
+
+        <provider
+            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+            android:authorities="com.sevenlearn.nikestore.lifecycle-process"
+            android:exported="false"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>
