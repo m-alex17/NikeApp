@@ -7,7 +7,7 @@ Sample project to show how to implement Clean Architecture with MVVM in Android 
 
 - Light/dark mode toggle
 - Koin
-- Architecture Components https://developer.android.com/topic/libraries/architecture/index.html
+- Architecture Components (https://developer.android.com/topic/libraries/architecture/index.html)
 - Retrofit 2 http://square.github.io/retrofit
 - RxKotlin https://github.com/ReactiveX/RxKotlin
 - RxJava 
